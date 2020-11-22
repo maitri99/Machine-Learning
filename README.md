@@ -2,7 +2,7 @@
 assignments from machine learning course
 
 
-desined in Jupyter Notebook
+designed in Jupyter Notebook
 
 
 with professor Erik Grimmelman
